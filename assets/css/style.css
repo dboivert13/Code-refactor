@@ -13,12 +13,16 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    
 }
 
-.h3 {
-
-    float: right;
-
+.nav1 {
+    display: inline-block;
+    margin-top: 10px;
+    clear: left; 
+    inline-size: auto;
+   
+    
 }
 
 .header h1 {
@@ -56,7 +60,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.figure-1 {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
